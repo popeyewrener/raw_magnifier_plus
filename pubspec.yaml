@@ -1,0 +1,31 @@
+name: raw_magnifier_plus
+description: >-
+  A powerful, composable Flutter magnifier widget built on RawMagnifier.
+  Zero dependencies. Supports circular, rectangular, stadium, star, and
+  any custom ShapeBorder. Works on images, videos, and complex UI layouts
+  in real-time — no hacks, no double image overlays.
+version: 0.1.0
+homepage: https://github.com/popeyewrener/raw_magnifier_plus
+repository: https://github.com/popeyewrener/raw_magnifier_plus
+issue_tracker: https://github.com/popeyewrener/raw_magnifier_plus/issues
+
+topics:
+  - magnifier
+  - zoom
+  - loupe
+  - image-zoom
+  - raw-magnifier
+
+# Dart SDK >=2.18.0 because RawMagnifier shipped with Flutter 3.3.0 / Dart 2.18.
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
