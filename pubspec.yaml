@@ -1,9 +1,7 @@
 name: raw_magnifier_plus
 description: >-
-  A powerful, composable Flutter magnifier widget built on RawMagnifier.
-  Zero dependencies. Supports circular, rectangular, stadium, star, and
-  any custom ShapeBorder. Works on images, videos, and complex UI layouts
-  in real-time — no hacks, no double image overlays.
+  A powerful, composable Flutter magnifier widget with zero dependencies.
+  Supports custom ShapeBorder for images, videos, and complex UI layouts.
 version: 0.1.0
 homepage: https://github.com/popeyewrener/raw_magnifier_plus
 repository: https://github.com/popeyewrener/raw_magnifier_plus
